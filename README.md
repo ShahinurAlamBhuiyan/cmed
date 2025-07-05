@@ -10,7 +10,7 @@
 
 
 ## 🔐 Privacy Notice
-> **Client Project:** Developed for a private client.
+> **Client Project:** Developing for a private client.
 > For confidentiality and privacy reasons, **the source code is not publicly available** and cannot be shared.
 ---
 
