@@ -2,7 +2,7 @@
 
 **CMED** is an innovative health-tech platform that harnesses the power of **AI**, **digital transformation**, and **data-driven research** to improve healthcare accessibility, efficiency, and patient care. The project’s core mission is to bridge gaps in healthcare by enabling smart, real-time, and secure interactions between patients and providers.
 
-🔗 **Live URL:** *[https://si-initiative.vercel.app/](https://si-initiative.vercel.app/)*  
+🔗 **Live URL:** *[https://cmedinnovation.com/](https://cmedinnovation.com/)*  
 
 
 ---
